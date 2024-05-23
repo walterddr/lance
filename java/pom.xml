@@ -4,14 +4,14 @@
 
     <groupId>com.lancedb</groupId>
     <artifactId>lance-parent</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Lance Parent</name>
 
     <scm>
       <developerConnection>scm:git:git@github.com:walterddr/lance.git</developerConnection>
-      <tag>lance-parent-0.0.2</tag>
+      <tag>HEAD</tag>
     </scm>
 
     <properties>

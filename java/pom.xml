@@ -6,13 +6,13 @@
 
     <groupId>com.lancedb</groupId>
     <artifactId>lance-parent</artifactId>
-    <version>0.11.0-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Lance Parent</name>
 
     <scm>
-      <developerConnection>scm:git:git@github.com:lancedb/lance.git</developerConnection>
+      <developerConnection>scm:git:git@github.com:walterddr/lance.git</developerConnection>
       <tag>HEAD</tag>
     </scm>
 
